@@ -1,0 +1,35 @@
+.input_block {
+  display: flex;
+  min-height: 60px;
+  font-size: 30px;
+  border: var(--element-border);
+  box-shadow: var(--shadow);
+}
+
+.add_task {
+  width: 24px;
+  border: none;
+  padding: 0;
+  margin: 0 10px;
+  background-color: #fefefe;
+  color: #e6e6e6;
+}
+
+.input {
+  width: 100%;
+  font-size: 24px;
+  border: none;
+}
+
+.input:focus {
+    outline: 2px solid lightgray;
+}
+
+.input_block input::placeholder {
+  color: #e5e5e5;
+  font-style: italic;
+}
+
+.input_block input {
+  padding-left: 10px;
+}

@@ -1,0 +1,32 @@
+:root {
+  --title-color:#E9D8D7;
+  --title-font-family: 'HelveticaNue', Arial;
+  --main-background-color:  #FFFFFF;
+  --footer-font-color: #808080;
+  --footer-font-size: 16px;
+  --element-border: 1px #e4e4e4 solid;
+  --cards-layout-height: 7px;
+  --cards-layout-background-color: #F6F6F6;
+  --cards-layout-offset: 7px;
+  --shadow: 3px 0 0 0 rgba(0, 0, 0, 0.05),  /* Тень справа (2px) */
+            -3px 0 0 0 rgba(0, 0, 0, 0.05);  /* Тень слева (-2px) */
+}
+
+.App {
+  text-align: center;
+  font-family: Arial;
+}
+
+.main-title {
+  padding: 0;
+  margin: 0;
+  font-family: var(--title-font-family);
+  font-size: 190px;
+  color: var(--title-color);
+}
+
+.main {
+  margin: 15px 15px 0;
+  background-color: var(--main-background-color);
+}
+

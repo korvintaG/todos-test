@@ -1,0 +1,21 @@
+.item {
+    display: flex;
+    margin: 0;
+    padding: 10px;
+    gap: 10px;
+    font-size: 25px;
+    border: var(--element-border);
+    align-items: center;
+    box-shadow:  var(--shadow);
+}
+
+.item p {
+    line-height: 0;
+    display: inline-block
+}
+
+.completed {
+    text-decoration:line-through ;
+    color: #D4D4D4;
+}
+

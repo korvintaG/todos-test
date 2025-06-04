@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    justify-content: center;
+    justify-items: center;
+}
+
+.unchecked {
+    border: 1px #EEEEEE solid;
+}
+
+.checked {
+    border: 1px #C6DCD7 solid;
+}
+
+.container:hover {
+    cursor: pointer;
+}
+
+.icon {
+    width: 25px;
+    color: green;
+}
