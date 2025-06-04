@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95f45e8c.css",
+    "main.js": "/static/js/main.ed847c6d.js",
+    "static/js/453.0b2757ed.chunk.js": "/static/js/453.0b2757ed.chunk.js",
+    "static/media/HelveticaNue.woff2": "/static/media/HelveticaNue.caefa33604460d5ac963.woff2",
+    "index.html": "/index.html",
+    "main.95f45e8c.css.map": "/static/css/main.95f45e8c.css.map",
+    "main.ed847c6d.js.map": "/static/js/main.ed847c6d.js.map",
+    "453.0b2757ed.chunk.js.map": "/static/js/453.0b2757ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95f45e8c.css",
+    "static/js/main.ed847c6d.js"
+  ]
+}
